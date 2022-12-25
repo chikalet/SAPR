@@ -1,0 +1,36 @@
+body{
+    /*background-color: #616161;*/
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#icon{
+    border: 3px solid #0D6EFD;
+    border-radius: 360px;
+    height: 60px;
+    width: 60px;
+}
+#navigation{
+    padding-bottom: 5%;
+}
+.NavBar{
+    height: 130%;
+    background-color: #C7CBD1;
+}
+p{
+    font-size: 25px;
+}
+.card-panel
+{
+    width: 750px;
+    margin-left: 50px;
+}
+.med{
+    margin-right: auto;
+    margin-left: auto;
+}
+.kag{
+    position: relative;
+    top: 100px;
+}
